@@ -1,16 +1,15 @@
 %% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%  This script is to perform the linear regression fitting on 58
-%  experimental data using 5-fold cross validation strategy
+%  This script is to perform the linear regression fitting on 58 experimental data using 5-fold cross validation strategy
 %
 %  Reference:
 %  xxxxx
 %
-%  Matlab version was written by Sze Teng Liong and was tested on Matlab 2019b
+%  Matlab version was written by Sze Teng Liong and was tested on Matlab 2020a
 %  If you have any problem, please feel free to contact Sze Teng Liong (stliong@fcu.edu.tw)
 
 %% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
  
-a=dlmread('D:\Gdrive\lst\chemi\data_20200411.txt');
+a=dlmread('..\data.txt');
  a = a(:,2:5); % remove numbering
 degradation = a(:,4); % degradation
 DATA = a(:,1:3); % TiO2 loading, O$_2$ flowrate and POME initial concentration
