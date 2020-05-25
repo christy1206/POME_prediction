@@ -1,6 +1,8 @@
 # POME_prediction
 
-Six different models derived from machine learning were developed in describing the response of POME degradation (%) with respects to all three main factors (O2 flowrate, TiO2 loadings and Initial concentration of POME) and interactions among them. The 6 models are:
+Six different models derived from machine learning were developed in describing the response of POME degradation (%) with respects to all three main factors (O2 flowrate, TiO2 loadings and Initial concentration of POME) and interactions among them. 
+
+The 6 models are:
 1) Gaussian process regression (GPR)
 2) Linear regression (LR)
 3) Decision tree (DT)
@@ -8,7 +10,7 @@ Six different models derived from machine learning were developed in describing 
 5) Regression Tree Ensemble (RTE)
 6) Quadratic curve fitting
 
-Software is written and tested using Matlab 2018b, toolbox required:
+Software is written and tested using Matlab 2020a, toolbox required:
 
 1) Statistics and Machine Learning Toolbox
 
