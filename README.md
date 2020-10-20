@@ -34,3 +34,6 @@ Contour plots and the 3D surface response plots between O2 flow rate and TiO2 lo
 If you have suggestions or questions regarding this method, please reach out to stliong@fcu.edu.tw
 
 Thank you for your interest and support.
+
+
+Ng, K. H., Gan, Y. S., Cheng, C. K., Liu, K. H., & Liong, S. T. (2020). Integration of machine learning-based prediction for enhanced Model’s generalization: Application in photocatalytic polishing of palm oil mill effluent (POME). Environmental Pollution, 267, 115500.
