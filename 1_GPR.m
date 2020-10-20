@@ -2,7 +2,7 @@
 %  This script is to perform the GPR model on 58 experimental data using 5-fold cross validation strategy
 %
 %  Reference:
-%  xxxxx
+%  Ng, K. H., Gan, Y. S., Cheng, C. K., Liu, K. H., & Liong, S. T. (2020). Integration of machine learning-based prediction for enhanced Model’s generalization: Application in photocatalytic polishing of palm oil mill effluent (POME). Environmental Pollution, 267, 115500.
 %
 %  Matlab version was written by Sze Teng Liong and was tested on Matlab 2020a
 %  If you have any problem, please feel free to contact Sze Teng Liong (stliong@fcu.edu.tw)
